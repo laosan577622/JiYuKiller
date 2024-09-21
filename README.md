@@ -1,6 +1,4 @@
 # JiYuKiller
-一个让你信息课脱困的好工具
-当然，如果您需要编译完成的版本，可以前往https://laosanjiekong.framer.website/
-进行下载
-
-GitHub仓库随缘更新
+已停更，如果您需要请前往
+https://github.com/laosan577622/FreeClass
+使用全新构建的**FreeClass**
